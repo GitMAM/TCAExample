@@ -21,3 +21,6 @@ Root:
 
 Testing:
 - Few tests were added to demonstrate the usage of Teststore.
+
+Note:
+The app can be easily converted into SPM Modeules if needed.
